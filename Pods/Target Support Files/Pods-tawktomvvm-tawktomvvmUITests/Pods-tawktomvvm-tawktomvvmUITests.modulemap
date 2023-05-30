@@ -1,0 +1,6 @@
+framework module Pods_tawktomvvm_tawktomvvmUITests {
+  umbrella header "Pods-tawktomvvm-tawktomvvmUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
